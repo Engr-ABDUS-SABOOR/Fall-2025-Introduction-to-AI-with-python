@@ -7,17 +7,17 @@
 
 Each lab report typically includes:
 
-- [**lab No:1**](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_1.ipynb) 
-- [**lab No:2**](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_2.ipynb) 
-- [**lab No:3**](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_3.ipynb) 
-- [**lab No:4**](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_4.ipynb) 
-- [**lab No:5**](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_5.ipynb) 
-- [**lab No:6**](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_6.ipynb) 
-- [**lab No:7**](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_7.ipynb) 
-- [**lab No:8**](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_8.ipynb) 
-- [**lab No:9**](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_9.ipynb) 
-- [**lab No:10**](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_10.ipynb) 
-- [**lab No:11**](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_11.ipynb) 
+- [**lab No:1**_Installation procedure](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_1.ipynb) 
+- [**lab No:2**_Basic Python Data Types](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_2.ipynb) 
+- [**lab No:3**_Conditional](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_3.ipynb) 
+- [**lab No:4**_Function](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_4.ipynb) 
+- [**lab No:5**_Frequently Used Methods](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_5.ipynb) 
+- [**lab No:6**_List and Tuple](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_6.ipynb) 
+- [**lab No:7**_ Dictionary](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_7.ipynb) 
+- [**lab No:8**_Lambda Function](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/lab_report_8.ipynb) 
+- [**lab No:9**_Loops](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_9.ipynb) 
+- [**lab No:10**_List Comprehension](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_10.ipynb) 
+- [**lab No:11**_Dictionary Comprehension](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_11.ipynb) 
 
 
 ---
