@@ -18,8 +18,8 @@ Each lab report typically includes:
 - [**lab No:9**_Loops](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_9.ipynb) 
 - [**lab No:10**_List Comprehension](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_10.ipynb) 
 - [**lab No:11**_Dictionary Comprehension](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_11.ipynb)    
- - [**lab No:12**_Exception as introduction] (https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_12.ipynb)    
- - [**lab No:13**_Reading and Writting] (https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_13.ipynb)
+ - [**lab No:12**_Exception as introduction](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_12.ipynb)    
+ - [**lab No:13**_Reading and Writting](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_13.ipynb)
 
 
 
