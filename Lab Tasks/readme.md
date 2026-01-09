@@ -1,11 +1,11 @@
-# 📁 Lab Reports
-- **Python-Labs**:"This folder contains all the lab reports we completed throughout the semester.
+# 📁 Lab Tasks
+- **Python-Labs**:"This folder contains all the lab Tasks we completed throughout the semester.
 
 ---
 
 ## 📝 Lab Report Format
 
-Each lab report typically includes:
+Each lab Task typically includes:
 
 - [**lab No:1**_Installation procedure](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/lab%20Reports/Lab_report_1.ipynb) 
 - [**lab No:2**_Basic Python Data Types](https://github.com/Engr-ABDUS-SABOOR/Fall-2025-Introduction-to-AI-with-python/blob/main/Lab%20Tasks/Lab_Task_2%20code.IPYNB)
